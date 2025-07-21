@@ -23,4 +23,4 @@ geometry = [Point(xy) for xy in zip(sitada["LONGITUD"], sitada["LATITUD"])]
 gdf = gpd.GeoDataFrame(sitada, geometry=geometry, crs="EPSG:5367")
 
 # Guardar GeoJSON
-gdf.to_file("sistemas_sitada_lambert.geojson", driver="GeoJSON")
+gdf.to_file("docs/sistemas_sitada_lambert.geojson", driver="GeoJSON")
