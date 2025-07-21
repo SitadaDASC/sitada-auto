@@ -22,3 +22,15 @@ jobs:
 
       - name: Ejecutar script para actualizar GeoJSON
         run: python update_geojson.py
+
+      - name: Configurar git para hacer commit
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+      - name: Hacer commit y push del GeoJSON
+        run: |
+          git add docs/sistemas_sitada_lambert.geojson
+          git commit -m "Actualizar GeoJSON automático" || echo "Sin cambios para commitear"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+
