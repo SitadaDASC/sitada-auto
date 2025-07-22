@@ -85,6 +85,6 @@
 { "type": "Feature", "properties": { "SITADA": "77777-2025", "ASIGNADA": "w", "ESTADO": "RESUELTA", "LATITUD": 324746, "LONGITUD": 497772 }, "geometry": { "type": "Point", "coordinates": [ 497772.0, 324746.0 ] } },
 { "type": "Feature", "properties": { "SITADA": "255222-2026", "ASIGNADA": "J", "ESTADO": "RESUELTA", "LATITUD": 132522, "LONGITUD": 593163 }, "geometry": { "type": "Point", "coordinates": [ 593163.0, 132522.0 ] } },
 { "type": "Feature", "properties": { "SITADA": "69-2025", "ASIGNADA": "D", "ESTADO": "RESUELTA", "LATITUD": 196954, "LONGITUD": 533926 }, "geometry": { "type": "Point", "coordinates": [ 533926.0, 196954.0 ] } },
-{ "type": "Feature", "properties": { "SITADA": "6563", "ASIGNADA": "D", "ESTADO": "RESUELTA", "LATITUD": 1120265, "LONGITUD": 432425 }, "geometry": { "type": "Point", "coordinates": [ 432425.0, 1120265.0 ] } }
+{ "type": "Feature", "properties": { "SITADA": "6563", "ASIGNADA": "D", "ESTADO": "RESUELTA", "LATITUD": 234844, "LONGITUD": 468738 }, "geometry": { "type": "Point", "coordinates": [ 468738.0, 234844.0 ] } }
 ]
 }
