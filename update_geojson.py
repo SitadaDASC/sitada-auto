@@ -20,7 +20,7 @@ sitada.columns = sitada.columns.str.strip().str.upper()
 
 # Crear geometría a partir de columnas LATITUD y LONGITUD
 geometry = [Point(xy) for xy in zip(sitada["LONGITUD"], sitada["LATITUD"])]
-gdf = gpd.GeoDataFrame(sitada, geometry=geometry, crs="EPSG:4326")
+gdf = gpd.GeoDataFrame(sitada, geometry=geometry, crs="EPSG:5367")
 
 # Guardar GeoJSON
 gdf.to_file("docs/sistemas_sitada_lambert.geojson", driver="GeoJSON")
