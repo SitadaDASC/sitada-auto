@@ -83,6 +83,7 @@
 { "type": "Feature", "properties": { "SITADA": "51545-2024", "ASIGNADA": "E", "ESTADO": "PENDIENTE", "LATITUD": 327584, "LONGITUD": 420343 }, "geometry": { "type": "Point", "coordinates": [ 420343.0, 327584.0 ] } },
 { "type": "Feature", "properties": { "SITADA": "66666-2025", "ASIGNADA": "D", "ESTADO": "PENDIENTE", "LATITUD": 301466, "LONGITUD": 475373 }, "geometry": { "type": "Point", "coordinates": [ 475373.0, 301466.0 ] } },
 { "type": "Feature", "properties": { "SITADA": "77777-2025", "ASIGNADA": "w", "ESTADO": "RESUELTA", "LATITUD": 324746, "LONGITUD": 497772 }, "geometry": { "type": "Point", "coordinates": [ 497772.0, 324746.0 ] } },
-{ "type": "Feature", "properties": { "SITADA": "255222-2026", "ASIGNADA": "J", "ESTADO": "RESUELTA", "LATITUD": 132522, "LONGITUD": 593163 }, "geometry": { "type": "Point", "coordinates": [ 593163.0, 132522.0 ] } }
+{ "type": "Feature", "properties": { "SITADA": "255222-2026", "ASIGNADA": "J", "ESTADO": "RESUELTA", "LATITUD": 132522, "LONGITUD": 593163 }, "geometry": { "type": "Point", "coordinates": [ 593163.0, 132522.0 ] } },
+{ "type": "Feature", "properties": { "SITADA": "69-2025", "ASIGNADA": "D", "ESTADO": "RESUELTA", "LATITUD": 196954, "LONGITUD": 533926 }, "geometry": { "type": "Point", "coordinates": [ 533926.0, 196954.0 ] } }
 ]
 }
