@@ -12,7 +12,7 @@ import geopandas as gpd
 from shapely.geometry import Point
 
 # URL pública del CSV exportado desde Google Sheets
-url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vR0zNoa_y8mrFDvZ3jTJhf-KIORD9m_7AITlO5IXl3kpdqWujCVwnxX9WEsd8ilMg1I98PYg6vt7pNk/pub?gid=0&single=true&output=csv"
+url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTgjfT2EUEnP4KXbCWh2oLKGmXsDYVRSE-qqkduq5VwDxaMAPJXHXGvDsHcYlA6_r-V4JYQG-KN3m-G/pub?gid=1316907155&single=true&output=csv"
 sitada = pd.read_csv(url)
 
 # Limpieza de encabezados
