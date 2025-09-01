@@ -165,7 +165,7 @@
 { "type": "Feature", "properties": { "SITADA": "47994-2024", "RESPONSABLE": "D", "LATITUD": null, "LONGITUD": null }, "geometry": null },
 { "type": "Feature", "properties": { "SITADA": "48002-2024", "RESPONSABLE": "D", "LATITUD": null, "LONGITUD": null }, "geometry": null },
 { "type": "Feature", "properties": { "SITADA": "48126-2024", "RESPONSABLE": "E", "LATITUD": 1159617.0, "LONGITUD": 487876.0 }, "geometry": { "type": "Point", "coordinates": [ 487876.0, 1159617.0 ] } },
-{ "type": "Feature", "properties": { "SITADA": "48497-2024", "RESPONSABLE": "A", "LATITUD": null, "LONGITUD": null }, "geometry": null },
+{ "type": "Feature", "properties": { "SITADA": "48497-2024", "RESPONSABLE": "A", "LATITUD": 1141179.0, "LONGITUD": 483379.0 }, "geometry": { "type": "Point", "coordinates": [ 483379.0, 1141179.0 ] } },
 { "type": "Feature", "properties": { "SITADA": "48534-2024", "RESPONSABLE": "D", "LATITUD": null, "LONGITUD": null }, "geometry": null },
 { "type": "Feature", "properties": { "SITADA": "48673-2024", "RESPONSABLE": "D", "LATITUD": null, "LONGITUD": null }, "geometry": null },
 { "type": "Feature", "properties": { "SITADA": "48715-2024", "RESPONSABLE": "E", "LATITUD": 1141399.0, "LONGITUD": 488545.0 }, "geometry": { "type": "Point", "coordinates": [ 488545.0, 1141399.0 ] } },
