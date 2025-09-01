@@ -232,6 +232,6 @@
 { "type": "Feature", "properties": { "SITADA": "56230-2025", "RESPONSABLE": null, "LATITUD": null, "LONGITUD": null }, "geometry": null },
 { "type": "Feature", "properties": { "SITADA": "56495-2025", "RESPONSABLE": null, "LATITUD": null, "LONGITUD": null }, "geometry": null },
 { "type": "Feature", "properties": { "SITADA": "56624-2025", "RESPONSABLE": null, "LATITUD": 1200009.0, "LONGITUD": 426711.0 }, "geometry": { "type": "Point", "coordinates": [ 426711.0, 1200009.0 ] } },
-{ "type": "Feature", "properties": { "SITADA": "55755-2025", "RESPONSABLE": null, "LATITUD": null, "LONGITUD": null }, "geometry": null }
+{ "type": "Feature", "properties": { "SITADA": "55755-2025", "RESPONSABLE": null, "LATITUD": 1127451.0, "LONGITUD": 455164.0 }, "geometry": { "type": "Point", "coordinates": [ 455164.0, 1127451.0 ] } }
 ]
 }
