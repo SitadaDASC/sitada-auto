@@ -243,6 +243,7 @@
 { "type": "Feature", "properties": { "SITADA": "57759-2025", "RESPONSABLE": null, "LATITUD": 45950.0, "LONGITUD": null }, "geometry": null },
 { "type": "Feature", "properties": { "SITADA": "57780-2025", "RESPONSABLE": null, "LATITUD": 45950.0, "LONGITUD": null }, "geometry": null },
 { "type": "Feature", "properties": { "SITADA": "57922-2025", "RESPONSABLE": null, "LATITUD": 45950.0, "LONGITUD": null }, "geometry": null },
-{ "type": "Feature", "properties": { "SITADA": "58007-2025", "RESPONSABLE": null, "LATITUD": 45950.0, "LONGITUD": null }, "geometry": null }
+{ "type": "Feature", "properties": { "SITADA": "58007-2025", "RESPONSABLE": null, "LATITUD": 45950.0, "LONGITUD": null }, "geometry": null },
+{ "type": "Feature", "properties": { "SITADA": "58027-2025", "RESPONSABLE": null, "LATITUD": 45951.0, "LONGITUD": null }, "geometry": null }
 ]
 }
