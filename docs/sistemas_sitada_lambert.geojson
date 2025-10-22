@@ -233,17 +233,17 @@
 { "type": "Feature", "properties": { "SITADA": "56495-2025", "RESPONSABLE": null, "LATITUD": 45894.0, "LONGITUD": null }, "geometry": null },
 { "type": "Feature", "properties": { "SITADA": "56624-2025", "RESPONSABLE": null, "LATITUD": 45894.0, "LONGITUD": 1200009.0 }, "geometry": { "type": "Point", "coordinates": [ 1200009.0, 45894.0 ] } },
 { "type": "Feature", "properties": { "SITADA": "55755-2025", "RESPONSABLE": null, "LATITUD": null, "LONGITUD": 1127451.0 }, "geometry": null },
-{ "type": "Feature", "properties": { "SITADA": "57136-2025", "RESPONSABLE": null, "LATITUD": 45918.0, "LONGITUD": null }, "geometry": null },
+{ "type": "Feature", "properties": { "SITADA": "57136-2025", "RESPONSABLE": null, "LATITUD": 45918.0, "LONGITUD": 1151754.0 }, "geometry": { "type": "Point", "coordinates": [ 1151754.0, 45918.0 ] } },
 { "type": "Feature", "properties": { "SITADA": "54267-2025", "RESPONSABLE": null, "LATITUD": 45918.0, "LONGITUD": null }, "geometry": null },
 { "type": "Feature", "properties": { "SITADA": "57230-2025", "RESPONSABLE": null, "LATITUD": 45931.0, "LONGITUD": null }, "geometry": null },
-{ "type": "Feature", "properties": { "SITADA": "57272-2025", "RESPONSABLE": null, "LATITUD": 45931.0, "LONGITUD": null }, "geometry": null },
-{ "type": "Feature", "properties": { "SITADA": "57492-2025", "RESPONSABLE": null, "LATITUD": 45931.0, "LONGITUD": null }, "geometry": null },
+{ "type": "Feature", "properties": { "SITADA": "57272-2025", "RESPONSABLE": null, "LATITUD": 45931.0, "LONGITUD": 1150170.0 }, "geometry": { "type": "Point", "coordinates": [ 1150170.0, 45931.0 ] } },
+{ "type": "Feature", "properties": { "SITADA": "57492-2025", "RESPONSABLE": null, "LATITUD": 45931.0, "LONGITUD": 1163518.0 }, "geometry": { "type": "Point", "coordinates": [ 1163518.0, 45931.0 ] } },
 { "type": "Feature", "properties": { "SITADA": "57660-2025", "RESPONSABLE": null, "LATITUD": 45950.0, "LONGITUD": 1153201.0 }, "geometry": { "type": "Point", "coordinates": [ 1153201.0, 45950.0 ] } },
 { "type": "Feature", "properties": { "SITADA": "57687-2025", "RESPONSABLE": null, "LATITUD": 45950.0, "LONGITUD": null }, "geometry": null },
 { "type": "Feature", "properties": { "SITADA": "57759-2025", "RESPONSABLE": null, "LATITUD": 45950.0, "LONGITUD": null }, "geometry": null },
 { "type": "Feature", "properties": { "SITADA": "57780-2025", "RESPONSABLE": null, "LATITUD": 45950.0, "LONGITUD": null }, "geometry": null },
 { "type": "Feature", "properties": { "SITADA": "57922-2025", "RESPONSABLE": null, "LATITUD": 45950.0, "LONGITUD": null }, "geometry": null },
-{ "type": "Feature", "properties": { "SITADA": "58007-2025", "RESPONSABLE": null, "LATITUD": 45950.0, "LONGITUD": null }, "geometry": null },
+{ "type": "Feature", "properties": { "SITADA": "58007-2025", "RESPONSABLE": null, "LATITUD": 45950.0, "LONGITUD": 1180658.0 }, "geometry": { "type": "Point", "coordinates": [ 1180658.0, 45950.0 ] } },
 { "type": "Feature", "properties": { "SITADA": "58027-2025", "RESPONSABLE": null, "LATITUD": 45951.0, "LONGITUD": null }, "geometry": null }
 ]
 }
