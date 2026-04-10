@@ -258,6 +258,15 @@
 { "type": "Feature", "properties": { "SITADA": "60656-2026", "RESPONSABLE": null, "LATITUD": 1143461.0, "LONGITUD": 452887.0 }, "geometry": { "type": "Point", "coordinates": [ 452887.0, 1143461.0 ] } },
 { "type": "Feature", "properties": { "SITADA": "60805-2026", "RESPONSABLE": null, "LATITUD": null, "LONGITUD": null }, "geometry": null },
 { "type": "Feature", "properties": { "SITADA": "54089-2025", "RESPONSABLE": null, "LATITUD": 1146931.0, "LONGITUD": 467593.0 }, "geometry": { "type": "Point", "coordinates": [ 467593.0, 1146931.0 ] } },
-{ "type": "Feature", "properties": { "SITADA": "61005-2026", "RESPONSABLE": null, "LATITUD": null, "LONGITUD": null }, "geometry": null }
+{ "type": "Feature", "properties": { "SITADA": "61005-2026", "RESPONSABLE": null, "LATITUD": null, "LONGITUD": null }, "geometry": null },
+{ "type": "Feature", "properties": { "SITADA": "61275-2026", "RESPONSABLE": null, "LATITUD": null, "LONGITUD": null }, "geometry": null },
+{ "type": "Feature", "properties": { "SITADA": "61334-2026", "RESPONSABLE": null, "LATITUD": null, "LONGITUD": null }, "geometry": null },
+{ "type": "Feature", "properties": { "SITADA": "61464-2026", "RESPONSABLE": null, "LATITUD": null, "LONGITUD": null }, "geometry": null },
+{ "type": "Feature", "properties": { "SITADA": "61471-2026", "RESPONSABLE": null, "LATITUD": null, "LONGITUD": null }, "geometry": null },
+{ "type": "Feature", "properties": { "SITADA": "61493-2026", "RESPONSABLE": null, "LATITUD": null, "LONGITUD": null }, "geometry": null },
+{ "type": "Feature", "properties": { "SITADA": "61599-2026", "RESPONSABLE": null, "LATITUD": null, "LONGITUD": null }, "geometry": null },
+{ "type": "Feature", "properties": { "SITADA": "61629-2026", "RESPONSABLE": null, "LATITUD": null, "LONGITUD": null }, "geometry": null },
+{ "type": "Feature", "properties": { "SITADA": "61790-2026", "RESPONSABLE": null, "LATITUD": null, "LONGITUD": null }, "geometry": null },
+{ "type": "Feature", "properties": { "SITADA": "61828-2026", "RESPONSABLE": null, "LATITUD": null, "LONGITUD": null }, "geometry": null }
 ]
 }
