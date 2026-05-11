@@ -271,6 +271,7 @@
 { "type": "Feature", "properties": { "SITADA": "62201-2026", "RESPONSABLE": null, "LATITUD": null, "LONGITUD": null }, "geometry": null },
 { "type": "Feature", "properties": { "SITADA": "62224-2026", "RESPONSABLE": null, "LATITUD": null, "LONGITUD": null }, "geometry": null },
 { "type": "Feature", "properties": { "SITADA": "62371-2026", "RESPONSABLE": null, "LATITUD": null, "LONGITUD": null }, "geometry": null },
-{ "type": "Feature", "properties": { "SITADA": "62501-2026", "RESPONSABLE": null, "LATITUD": null, "LONGITUD": null }, "geometry": null }
+{ "type": "Feature", "properties": { "SITADA": "62501-2026", "RESPONSABLE": null, "LATITUD": null, "LONGITUD": null }, "geometry": null },
+{ "type": "Feature", "properties": { "SITADA": "62607-2026 ", "RESPONSABLE": null, "LATITUD": null, "LONGITUD": null }, "geometry": null }
 ]
 }
